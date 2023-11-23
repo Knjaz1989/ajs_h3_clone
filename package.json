@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "@knjaz1989/ajs_h3": "^1.0.0"
+  }
+}
